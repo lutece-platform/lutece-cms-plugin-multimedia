@@ -43,8 +43,8 @@
 		<jiraComponentId>10166</jiraComponentId>
 	</properties>
     <scm>
-        <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/cms/plugin-multimedia</connection>
-        <developerConnection>scm:svn:https://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/cms/plugin-multimedia</developerConnection>
-        <url>http://dev.lutece.paris.fr/viewvc/lutece/portal/trunk/plugins/cms/plugin-multimedia</url>
+        <connection>scm:git:https://github.com/lutece-platform/lutece-cms-plugin-multimedia.git</connection>
+        <developerConnection>scm:git:https://github.com/lutece-platform/lutece-cms-plugin-multimedia.git</developerConnection>
+        <url>https://github.com/lutece-platform/lutece-cms-plugin-multimedia.git</url>
     </scm>
 </project>
